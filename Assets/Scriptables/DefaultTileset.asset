@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51aa58f3146f449188642e7ddf8233de, type: 3}
+  m_Name: DefaultTileset
+  m_EditorClassIdentifier: Assembly-CSharp::Generation.GenerationTileset
+  Rooms:
+  - {fileID: 649695209636905616, guid: 6ab46721fc15f9340ab55d1e0938f5a9, type: 3}
+  - {fileID: 1866589179589702833, guid: b1e95e2400f63284b8c3880b0b35a540, type: 3}
+  - {fileID: 6840995344079045931, guid: f4451e67caa986a4cbc7205ac52e9f4c, type: 3}
+  - {fileID: 1766731826115759518, guid: 81f7be05ac94b0e41a2bb25290c22017, type: 3}
+  - {fileID: 1458516901955208002, guid: 695dc143848ff0f4883dbeca2f8a1bc1, type: 3}
+  - {fileID: 6155467159855294998, guid: 1ee77c3698f7dee40974a0f166618aaa, type: 3}
